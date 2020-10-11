@@ -30,14 +30,14 @@ Each model followed this general process:
 
 ## Models & Results
 Models:
-KNeighborsClassifier (KNN)
-RandomForest (RF)
-Support Vector Machine (SVM)
+* RandomForest (RF)
+* KNeighborsClassifier (KNN)
+* Support Vector Machine (SVM)
 
 Classification report test accuracy:
-RF = 89%
-KNN = 67%
-SVM = 60%
+* RF = 89%
+* KNN = 67%
+* SVM = 60%
 
 RF model saved as matthewDebnarRF.sav based on best accuracy.
 
